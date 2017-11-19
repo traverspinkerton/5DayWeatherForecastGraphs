@@ -9,6 +9,8 @@ Get a graph for each of the next five day's temperature, pressure and humidity i
 > npm start
 ```
 
+![Alt text](/DemoScreenCapture.png?raw=true)
+
 #### Shoutout
 
 Thanks to Stephen Grider for the [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter)!
